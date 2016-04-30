@@ -10,7 +10,7 @@ StatFormula is a Desktop Windows Application that was build to help users findin
 
 ### Used Technologies and Resources:
 -	Visual Studio 2015 Community IDE
--	Windows Presentation Form (WPF) with C# language
+-	Windows Presentation Foundation (WPF) with C# language
 -	Icomoon.io
 -	Artweaver Free 5
 
