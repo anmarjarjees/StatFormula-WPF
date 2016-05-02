@@ -9,7 +9,7 @@ StatFormula is a Desktop Windows Application that was build to help users findin
 - The median
 
 ### Used Technologies and Resources:
--	Visual Studio 2015 Community IDE
+-	Visual Studio Community 2015
 -	Windows Presentation Foundation (WPF) with C# language
 -	Icomoon.io
 -	Artweaver Free 5
@@ -19,8 +19,9 @@ StatFormula is a Desktop Windows Application that was build to help users findin
 -	.NET Framework 4.0 or higher
 
 ### How to run StatFormula:
--	Download the entire folder into your local machine (any local storage unit like the Hard Disk)
--	The main executable file to launch the application is “StatFormula.exe”, double click it and that’s it, you are good to go.
+-	Download the executable file "StatFormula.exe" into your local machine (any local storage unit like the Hard Disk)
+-	Double click it and that’s it, you are good to go.
+-	When you try to run this file, windows will give you a warning message as it's an executable file (.exe) but since the file was downloaded from a trusted source and not a fake website, so you can just ignore the warning and continue
 
 ### How to use StatFormula:
 -	The application was designed to have a very simple and user friendly interface. You can write your numbers inside the main values box then click calculate to get your results.
